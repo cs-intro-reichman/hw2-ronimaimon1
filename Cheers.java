@@ -12,7 +12,7 @@ public class Cheers {
                                 j = anLestters.length();
                         }
                         else if (j==anLestters.length()-1)
-                                System.out.println("Give me a " + s.charAt(i) + ": " + s.charAt(i) + "!");  
+                                System.out.println("Give me a  " + s.charAt(i) + ": " + s.charAt(i) + "!");  
                 }
             }
 
